@@ -4,7 +4,7 @@
 
 🛠️ I'm currently using Godot to build an [asynchronous auto battler](https://github.com/andrewdlanham/untitled-auto-battler) inspired by TFT and Super Auto Pets. 
 
-📊 Professionally, I work with tools like SQL, Python, and Microsoft's Power Platform to create data-driven reports, and business applications.
+📊 Professionally, I work with tools like SQL, Python, and PowerApps to create data-driven reports and business apps.
 
 ✉️ Feel free to reach out to me on LinkedIn or email me at andrewdlanham@gmail.com!
 
